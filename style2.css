@@ -106,3 +106,79 @@
   position: relative;
 
 }
+.box2 {
+  margin-left: 50px;
+  margin-top: 100px;
+  width: 90%;
+  height: 700%;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 10px;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.box2 p {
+  color: #000;
+  font-size: 30px;
+}
+.box2 {
+  background-color: rgba(255, 255, 255, 0.75);
+}
+.box3 {
+  margin-left: 50px;
+  margin-top: 100px;
+  width: 90%;
+  height: 500%;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 10px;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.box3 p {
+  color: #000;
+  font-size: 30px;
+}
+.box3 {
+  background-color: rgba(255, 255, 255, 0.75);
+}
+.box4 {
+  margin-left: 50px;
+  margin-top: 100px;
+  width: 90%;
+  height: 500%;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 10px;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.box4 p {
+  color: #000;
+  font-size: 30px;
+}
+.box4 {
+  background-color: rgba(255, 255, 255, 0.75);
+}
+.box5 {
+  margin-left: 50px;
+  margin-top: 100px;
+  width: 90%;
+  height: 500%;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 10px;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.box5 p {
+  color: #000;
+  font-size: 30px;
+}
+.box5 {
+  background-color: rgba(255, 255, 255, 0.75);
+}
