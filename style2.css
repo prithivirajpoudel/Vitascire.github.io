@@ -1,0 +1,108 @@
+.list {
+  border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    transition: transform 0.3s ease;
+}
+
+.list:hover {
+  transform: translateY(-5px);
+}
+
+.list a {
+  font-size: 24px;
+    margin-bottom: 10px;
+
+}
+.list {
+  margin-left: 500px;
+  margin-top: 290px;
+  width: 20%;
+  height: 20%;
+  background-color: rgba(0, 0, 0, 0.25);
+  padding: 10px;
+  position: relative;
+
+}
+.list2 {
+  border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    transition: transform 0.3s ease;
+}
+
+.list2:hover {
+  transform: translateY(-5px);
+}
+
+.list2 a {
+  font-size: 24px;
+    margin-bottom: 10px;
+
+}
+.list2 {
+  margin-left: 500px;
+  margin-top: 50px;
+  width: 20%;
+  height: 20%;
+  background-color: rgba(0, 0, 0, 0.25);
+  padding: 10px;
+  position: relative;
+
+}
+.list3 {
+  border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    transition: transform 0.3s ease;
+}
+
+.list3:hover {
+  transform: translateY(-5px);
+}
+
+.list3 a {
+  font-size: 24px;
+    margin-bottom: 10px;
+
+}
+.list3 {
+  margin-left: 100px;
+  margin-top: -370px;
+  width: 20%;
+  height: 20%;
+  background-color: rgba(0, 0, 0, 0.25);
+  padding: 10px;
+  position: relative;
+
+}
+.list4 {
+  border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    transition: transform 0.3s ease;
+}
+
+.list4:hover {
+  transform: translateY(-5px);
+}
+
+.list4 a {
+  font-size: 24px;
+    margin-bottom: 10px;
+
+}
+.list4 {
+  margin-left: 100px;
+  margin-top: 50px;
+  width: 20%;
+  height: 20%;
+  background-color: rgba(0, 0, 0, 0.25);
+  padding: 10px;
+  position: relative;
+
+}

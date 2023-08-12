@@ -1,0 +1,101 @@
+.Brand a {
+   text-decoration: none;
+  color: darkred;
+
+}
+.Brand{
+     text-align: center;
+      margin: 0 auto;
+      position: fixed;
+      top: 7.5%;
+      left: 7.5%;
+      transform: translate(-50%, -50%);
+      color: #0000FF;
+      text-decoration: none;
+      font-size: 50px;
+      font-weight: bold;
+      margin-left: 20px;
+      font-family: Papyrus;
+}
+.top-middle-navigation a {
+      text-decoration: none;
+
+}
+.top-middle-navigation {
+      text-align: center;
+      margin: 0 auto;
+      position: fixed;
+      top: 7.5%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #000000; /* Set logo text color to white */
+      text-decoration: none;
+      font-size: 24px;
+      font-weight: bold;
+      margin-left: 20px;
+    }
+    .top-middle-navigation a {
+  margin-left: 50px;
+}
+.top-middle-navigation a {
+      color: black;
+    }
+    .hello {
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 250px;
+ font-weight: normal;
+ font-size: 35px;
+ font-family: Lucida Handwriting;
+}
+.Prithivi{
+  text-align: left;
+  margin-left: 50px;
+  margin-top: -110px;
+ font-weight: bolder;
+ font-size: 95px;
+}
+.intro{
+  text-align: left;
+  margin-left: 50px;
+  margin-top: -100px;
+ font-weight: bold;
+ font-size: 50px;
+ color: blueviolet;
+}
+.country {
+  text-align: left;
+  margin-left: 50px;
+  margin-top: -50px;
+ font-weight: normal;
+ font-size: 35px;
+ font-family: Lucida Handwriting;
+}
+.button {
+  background-color: blueviolet;
+  border-radius:5px;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.5s;
+  margin-left: 50px;
+  margin-top: -70px;
+}
+
+.button:hover {
+  background-color: transparent;
+  color: blueviolet;
+}
+.highlight {
+  color: black;
+}
+
+.highlight:hover {
+  color: purple;
+}
+
+.header {
+  text-align: center;
+  color: purple;
+  font-size: 50px;
+}
